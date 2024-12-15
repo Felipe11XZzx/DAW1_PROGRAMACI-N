@@ -5,9 +5,7 @@ Este repositorio recoge una serie de proyectos realizados durante el primer año
 1. Clases y Objetos 🧑‍💻
 Proyectos centrados en la creación y manipulación de clases y objetos. Ejemplos incluyen:
 
-ClasePersona: Representación de personas con atributos como nombre y edad.
-ClaseHora: Gestión de tiempo mediante la implementación de horas, minutos y segundos.
-ClaseInstrumento: Diseño de una clase para gestionar diferentes tipos de instrumentos musicales.
+ClasePersona: Representación de personas con atributos como nombre y edad. ClaseHora: Gestión de tiempo mediante la implementación de horas, minutos y segundos. ClaseInstrumento: Diseño de una clase para gestionar diferentes tipos de instrumentos musicales.
 
 2. Estructuras de Datos 📊
 Ejercicios que exploran el manejo de arrays y listas, y su manipulación para organizar y mostrar datos eficientemente.
